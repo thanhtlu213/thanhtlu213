@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://github.com/thanhtlu213">
-  <img src="https://github-readme-stats.vercel.app/api?username=thanhtlu213&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for Nguyễn Văn Thành" width="700">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=thanhtlu123&theme=jolly" width="700">
+  <img src="https://github-readme-stats.vercel.app/api?username=thanhtlu213&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for Nguyễn Văn Thành" width="600">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thanhtlu213&theme=jolly" width="600">
 </div>
 
 <div style="display: inline_block"><br>
