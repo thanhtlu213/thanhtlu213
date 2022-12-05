@@ -14,10 +14,9 @@
   <img align="center" alt="Felipe-CPlusPlus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Felipe-Rust" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg">
   </div>
-
 <div>  
-  ### Watch my contribution graph get eaten by the snake 🐍
+
+### Watch my contribution graph get eaten by the snake 🐍
+![Snake animation](https://github.com/thanhtlu213/thanhtlu213/blob/output/github-contribution-grid-snake.svg)
   
-  ![Snake animation](https://github.com/thanhtlu213/thanhtlu213/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
+
