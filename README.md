@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://github.com/thanhtlu213">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipecaninnovaes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipecaninnovaes&layout=compact&langs_count=10&theme=dracula"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=thanhtlu213&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for Nguyễn Văn Thành" width="700">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MishManners&theme=jolly" width="700">
 </div>
 
 <div style="display: inline_block"><br>
