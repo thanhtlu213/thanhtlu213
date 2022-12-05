@@ -17,6 +17,6 @@
 
 <div>  
   
-  ![Snake animation](https://github.com/thanhtlu213/thanhtlu213/blob/output/github-contribution-grid-snake.svg1)
+  ![Snake animation](https://github.com/thanhtlu213/thanhtlu213/blob/output/github-contribution-grid-snake.svg)
   
 </div>
