@@ -2,8 +2,9 @@
   
 ### 🎖️ Certification
 
-[`AWS Certified Advanced Networking – Specialty`](https://www.credly.com/badges/e52fcd5c-449c-45d2-8b6e-6a0c86dc75e0)
-[`Microsoft Certified: Azure Administrator Associate`](https://www.credly.com/badges/3b9af0cc-88a9-4c8d-8f3d-f5b0229c054d)
+- [`AWS Certified Advanced Networking – Specialty`](https://www.credly.com/badges/e52fcd5c-449c-45d2-8b6e-6a0c86dc75e0)
+
+- [`Microsoft Certified: Azure Administrator Associate`](https://www.credly.com/badges/3b9af0cc-88a9-4c8d-8f3d-f5b0229c054d)
 
 ### ⚒️ My knowledge
 
