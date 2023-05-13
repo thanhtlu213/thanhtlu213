@@ -17,4 +17,5 @@
 ![Vagrant](https://img.shields.io/badge/-Vagrant-1868F2?logo=vagrant&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white)
+![Gitlab](https://img.shields.io/badge/-Gitlab-7B42BC?logo=gitlab&logoColor=important)
 ![AWS](https://img.shields.io/badge/-Amazon%20AWS-FF9900?logo=amazon-aws&logoColor=white)
