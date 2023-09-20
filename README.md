@@ -2,6 +2,8 @@
   
 ### 🎖️ Certification
 
+- [`Certified Kubernetes Administrator (CKA)`](https://www.credly.com/badges/d4f81ca7-552d-4b02-b8c0-be67348418dd)
+
 - [`AWS Certified Advanced Networking – Specialty`](https://www.credly.com/badges/e52fcd5c-449c-45d2-8b6e-6a0c86dc75e0)
 
 - [`Microsoft Certified: Azure Administrator Associate`](https://www.credly.com/badges/3b9af0cc-88a9-4c8d-8f3d-f5b0229c054d)
@@ -17,5 +19,4 @@
 ![Vagrant](https://img.shields.io/badge/-Vagrant-1868F2?logo=vagrant&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white)
-![Gitlab](https://img.shields.io/badge/-Gitlab-7B42BC?logo=gitlab&logoColor=white)
 ![AWS](https://img.shields.io/badge/-Amazon%20AWS-FF9900?logo=amazon-aws&logoColor=white)
